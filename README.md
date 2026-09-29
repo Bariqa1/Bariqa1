@@ -1,7 +1,7 @@
 # Hi, I'm Bariqa 🪐
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,pytorch,tensorflow,opencv,react,ts,flutter,dart,firebase,gcp,aws" />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,pytorch,tensorflow,opencv,react,ts,flutter,dart,firebase,gcp,aws&theme=light" />
 </p>
 
 I'm a Computer Science graduate, AI Engineer, and Full-Stack Developer bridging the gap between cutting-edge machine intelligence and intuitive applications. I specialize in orchestrating Multi-Agent systems, designing Edge Computer Vision pipelines, and architecting robust end-to-end platforms.

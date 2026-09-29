@@ -1,32 +1,19 @@
-# Hi there, I'm Bariqa Aljarallah 👋
+# Hi, I'm Bariqa 🪐
 
- **Computer Science Graduate & AI Engineer**  
- Passionate about building **Agentic AI Systems**, **Edge Computer Vision**, and **Full-Stack Applications**.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,pytorch,tensorflow,opencv,react,ts,flutter,dart,firebase,gcp,aws" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/YOLO11-00599C?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLO" />
+</p>
 
----
+I'm an AI Engineer & Full-Stack Developer bridging the gap between cutting-edge machine intelligence and intuitive applications. I specialize in orchestrating **Multi-Agent systems**, designing **Edge Computer Vision pipelines**, and architecting robust end-to-end platforms.
 
-### 🚀 What I Do:
--  **Agentic AI & LLMs:** Designing multi-agent ecosystems with LangGraph, RAG pipelines, and automated evaluation (DeepEval).
--  **Computer Vision:** Real-time edge detection pipelines (YOLO, OpenCV) and multimodal architectures (PyTorch, Transformers).
--  **Full-Stack & Mobile:** Scalable backends with FastAPI/Django and cross-platform apps using Flutter & React.
+Constantly building, optimizing, and exploring the future of autonomous AI.
 
----
-
-### Tech Stack & Tools:
-- **Languages:** Python, Dart, TypeScript/JavaScript, Java, C++, SQL
-- **AI & Data:** LangGraph, PyTorch, TensorFlow, OpenCV, Scikit-learn, Vector Search
-- **Web & Mobile:** FastAPI, React 19, Flutter, Django, Firebase
-- **DevOps & Cloud:** Git, GitHub, Docker, AWS, GCP, LangSmith
-
----
-
-### Featured Projects:
-- **[AuraX](https://github.com/Bariqa1)** — Multi-agent industrial safety platform with edge YOLO running at 37.5 FPS.
-- **[Attocus](https://github.com/Bariqa1)** — Agentic AI study co-pilot with shared Vector RAG and 4 specialized agents.
-- **[UniClubs](https://github.com/Bariqa1)** — AI-powered mobile platform featuring TFRS recommendations and attendance prediction.
-
----
-
-### Connect with me:
-- **LinkedIn:** [linkedin.com/in/bariqa-aljarallah](https://linkedin.com/in/bariqa-aljarallah)
-- **Email:** bariqa00@gmail.com
+<p align="left">
+  <a href="https://linkedin.com/in/bariqa-aljarallah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>

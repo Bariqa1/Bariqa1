@@ -4,9 +4,13 @@
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,pytorch,tensorflow,opencv,react,ts,flutter,dart,firebase,gcp,aws" />
 </p>
 
-I'm an AI Engineer & Full-Stack Developer bridging the gap between cutting-edge machine intelligence and intuitive applications. I specialize in orchestrating **Multi-Agent systems (LangGraph)**, designing **Edge Computer Vision pipelines (YOLO)**, and architecting robust end-to-end platforms.
+I'm a Computer Science graduate, AI Engineer, and Full-Stack Developer bridging the gap between cutting-edge machine intelligence and intuitive applications. I specialize in orchestrating Multi-Agent systems, designing Edge Computer Vision pipelines, and architecting robust end-to-end platforms.
 
 Constantly building, optimizing, and exploring the future of autonomous AI.
+
+---
+
+*Always open to collaborating on innovative AI projects, discussing tech, or exploring new opportunities. Feel free to reach out!*
 
 <p align="left">
   <a href="https://linkedin.com/in/bariqa-aljarallah" target="_blank">

@@ -20,3 +20,4 @@ Constantly building, optimizing, and exploring the future of autonomous AI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bariqa-aljarallah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bariqa00@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bariqa1.github.io/bariqa-portfolio/)

@@ -1,8 +1,8 @@
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=FFFFFF&width=650&lines=Hi%2C+I'm+Bariqa+%F0%9F%AA%90;Full+Stack+Java+%26+AI+Engineer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=000000&width=650&lines=Hi%2C+I'm+Bariqa+%F0%9F%AA%90;Full+Stack+Java+%26+AI+Engineer" />
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=000000&width=650&lines=Hi%2C+I'm+Bariqa+%F0%9F%AA%90;Full+Stack+Java+%26+AI+Engineer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=FFFFFF&width=650&lines=Hi%2C+I'm+Bariqa+%F0%9F%AA%90;Software+%26+AI+Engineer;Full+Stack+Java+Developer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=000000&width=650&lines=Hi%2C+I'm+Bariqa+%F0%9F%AA%90;Software+%26+AI+Engineer;Full+Stack+Java+Developer" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=000000&width=650&lines=Hi%2C+I'm+Bariqa+%F0%9F%AA%90;Software+%26+AI+Engineer;Full+Stack+Java+Developer" />
   </picture>
 </p>
 
@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,angular,postgres,docker,py,fastapi,pytorch,tensorflow,react,ts,gcp,aws" />
 </p>
 
-I'm a Computer Science honors graduate and Full Stack Java & AI Engineer bridging the gap between robust enterprise applications and cutting-edge machine intelligence. I specialize in architecting scalable web platforms (Java, Spring Boot, Angular), designing deterministic state machines, and seamlessly integrating them with Multi-Agent systems and advanced AI pipelines.
+I'm a Computer Science honors graduate, Software & AI Engineer, and Full Stack Java Developer bridging the gap between robust enterprise applications and cutting-edge machine intelligence. I specialize in architecting scalable web platforms (Java, Spring Boot, Angular), designing deterministic state machines, and seamlessly integrating them with Multi-Agent systems and advanced AI pipelines.
 
 Constantly building, optimizing, and exploring the intersection of reliable software architecture and autonomous AI.
 
